@@ -1,5 +1,4 @@
-# Windows-basic-commands-batchscript
-Ex08-Windows-basic-commands-batchscript
+# EX08 Windows-basic-commands-batchscript
 
 # AIM:
 To execute Windows basic commands and batch scripting
@@ -29,20 +28,28 @@ Create a directory named "MyLab" on the desktop.
 
 
 ## COMMAND AND OUTPUT
+![alt text](mkdir.png)
 
 Change to the "MyLab" directory and create an empty text file named "MyFile.txt" inside it.
 
 
 ## COMMAND AND OUTPUT
+![alt text](cd.png)
+
+![alt text](touch.png)
 
 List the contents of the "MyLab" directory.
 
 
 ## COMMAND AND OUTPUT
+![alt text](dir.png)
 
 Copy "MyFile.txt" to a new folder named "Backup" on the desktop.
 
 ## COMMAND AND OUTPUT
+![alt text](backup.png)
+
+![alt text](copy.png)
 
 Move the "MyLab" directory to the "Documents" folder.
 
