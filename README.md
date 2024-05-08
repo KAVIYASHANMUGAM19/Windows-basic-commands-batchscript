@@ -3,7 +3,7 @@
 # AIM:
 To execute Windows basic commands and batch scripting
 
-# DESIGN STEPS:
+# DESIGN STEPS: 
 
 ### Step 1:
 
