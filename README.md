@@ -34,7 +34,9 @@ Create a directory named "MyLab" on the desktop.
 mkdir %userprofile%\Desktop\MyLab
 ``
 
-![image](https://github.com/KAVIYASHANMUGAM19/Windows-basic-commands-batchscript/assets/155141139/f21ea7d3-344c-4700-a398-730c0e2007e9)
+
+![image](https://github.com/KAVIYASHANMUGAM19/Windows-basic-commands-batchscript/assets/155141139/21364bec-83bf-4747-8d00-71a202228b2a)
+
 
 
 Change to the "MyLab" directory and create an empty text file named "MyFile.txt" inside it.
@@ -45,7 +47,7 @@ Change to the "MyLab" directory and create an empty text file named "MyFile.txt"
 cd %userprofile%\Desktop\MyLab
 ```
 
-![image](https://github.com/KAVIYASHANMUGAM19/Windows-basic-commands-batchscript/assets/155141139/e9b25b40-8341-4cb3-9054-92f3777443dd)
+
 
 
 ```
